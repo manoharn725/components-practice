@@ -1,0 +1,15 @@
+.label{
+    background-color: aliceblue;
+    padding: 5px 20px;
+    margin: 1px;
+    border: 1px solid black;
+    display: flex;
+    cursor: pointer;
+    align-items: center;
+    justify-content: space-between;
+}
+.content{
+    background-color: antiquewhite;
+    padding: 5px 20px;
+    border: 1px solid black;
+}

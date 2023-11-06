@@ -1,0 +1,21 @@
+
+.select {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1.3px solid black;
+}
+.select,
+.options {
+  cursor: pointer;
+  width: 150px;
+  padding: 0 5px;
+}
+.options {
+  border-right: 1.3px solid black;
+  border-bottom: 1.3px solid black;
+  border-left: 1.3px solid black;
+}
+.options:hover {
+  background-color: aliceblue;
+}
